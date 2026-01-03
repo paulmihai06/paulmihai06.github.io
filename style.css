@@ -3,6 +3,10 @@ body {
   padding: 20 px;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 /* Container for flexboxes */
 .row {
   display: flex;
